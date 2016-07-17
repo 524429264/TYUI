@@ -1,1 +1,3 @@
 wertyuiocghjklcvbnm,
+
+@compatibility_alias
