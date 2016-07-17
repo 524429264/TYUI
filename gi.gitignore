@@ -1,1 +1,7 @@
-*.txt
+# My configurations:
+db.ini
+deploy_key_rsa
+123.txt
+321.txt
+3232.txt
+111.txt
